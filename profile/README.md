@@ -27,7 +27,7 @@ Some important links -
 
 
 <!-- ### <ins>Raise an Issue to join the NIT AP Developer Club .Check </ins>[*here.*](https://github.com/nit-ap/nit-ap/blob/main/joinorg.md) -->
-*(For any queries , please reach out to any of the admins.)*
+<!-- *(For any queries , please reach out to any of the admins.)*
 
 
 ## ✨ Admins
@@ -37,4 +37,4 @@ Some important links -
 - [Sarthak Gupta](https://github.com/cod3bug)
 - [Amit Yadav](https://github.com/amityadav341)
 - [Jayesh Gupta](https://github.com/jayesh-ctrl)
-- [Anish Nirala](https://github.com/Anish-Nirala) 
+- [Anish Nirala](https://github.com/Anish-Nirala)  -->
