@@ -22,13 +22,11 @@ Some important links -
 <ul>
     <li>Visit our institute website <a href="https://nitap.ac.in">here.</a></li>
     <li>Coding Club visit <a href="https://www.nitap.ac.in/quick/CodingClub/home/">here.</a></li>
+    <li>Raise an issue to join the <a href="https://github.com/nit-ap/nit-ap/blob/main/joinorg.md">NIT AP Developer Club GitHub organisation.</a></li>
 </ul>
 
 
-
-
-
-### <ins>Raise an Issue to join the NIT AP Developer Club .Check </ins>[*here.*](https://github.com/nit-ap/nit-ap/blob/main/joinorg.md)
+<!-- ### <ins>Raise an Issue to join the NIT AP Developer Club .Check </ins>[*here.*](https://github.com/nit-ap/nit-ap/blob/main/joinorg.md) -->
 *(For any queries , please reach out to any of the admins.)*
 
 
